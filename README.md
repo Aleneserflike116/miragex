@@ -186,6 +186,20 @@ miragex read secrets.mgx mypassword 5
 
 The decrypted content is printed directly to the terminal. No file is written.
 
+> **Security Note:** The decrypted content is printed directly to the terminal and is
+> visible in the scrollback buffer until the terminal is closed or cleared. After reading
+> sensitive content, clear the terminal immediately.
+>
+> Linux and macOS:
+> ```bash
+> clear
+> ```
+> Windows PowerShell:
+> ```powershell
+> cls
+> ```
+> Also ensure terminal session logging is disabled in your terminal application settings.
+
 ### Decrypt to file
 
 ```bash
